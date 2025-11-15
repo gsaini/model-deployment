@@ -1,0 +1,12 @@
+customerID,SeniorCitizen,Partner,Dependents,tenure,PhoneService,InternetService,Contract,PaymentMethod,MonthlyCharges,TotalCharges
+CUST0048,0,No,No,38,No,Fiber optic,Month-to-month,Mailed check,39.15,1487.7
+CUST0049,0,Yes,No,63,No,Fiber optic,One year,Credit card,48.66,3065.58
+CUST0050,0,Yes,No,29,No,DSL,One year,Mailed check,23.07,669.03
+CUST0051,0,Yes,Yes,19,Yes,DSL,Two year,Mailed check,99.78,1895.82
+CUST0052,1,Yes,Yes,29,Yes,No,Two year,Credit card,50.13,1453.77
+CUST0053,1,No,No,35,Yes,Fiber optic,Two year,Mailed check,41.95,1468.25
+CUST0054,0,Yes,No,70,Yes,DSL,One year,Mailed check,100.47,7032.9
+CUST0055,0,Yes,No,23,Yes,DSL,One year,Electronic check,23.93,550.39
+CUST0056,0,Yes,Yes,46,No,DSL,Two year,Bank transfer,48.45,2228.7
+CUST0057,1,Yes,No,44,No,No,Month-to-month,Mailed check,46.28,2036.32
+CUST0058,0,Yes,Yes,48,No,No,One year,Mailed check,46.3,2222.4
