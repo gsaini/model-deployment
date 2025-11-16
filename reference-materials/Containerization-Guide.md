@@ -2,17 +2,17 @@
 
 ## 📋 Table of Contents
 
-- [Introduction to Containerization](#introduction-to-containerization)
-- [Why Containerization for ML?](#why-containerization-for-ml)
-- [Docker Fundamentals](#docker-fundamentals)
-- [Docker for ML Applications](#docker-for-ml-applications)
-- [Dockerfile Best Practices](#dockerfile-best-practices)
-- [Docker Compose](#docker-compose)
-- [Container Orchestration](#container-orchestration)
-- [Security Considerations](#security-considerations)
-- [Performance Optimization](#performance-optimization)
-- [Troubleshooting](#troubleshooting)
-- [Real-World Examples](#real-world-examples)
+- [Introduction to Containerization](#-introduction-to-containerization)
+- [Why Containerization for ML?](#-why-containerization-for-ml)
+- [Docker Fundamentals](#-docker-fundamentals)
+- [Docker for ML Applications](#-docker-for-ml-applications)
+- [Dockerfile Best Practices](#-dockerfile-best-practices)
+- [Docker Compose](#-docker-compose)
+- [Container Orchestration](#️-container-orchestration)
+- [Security Considerations](#-security-considerations)
+- [Performance Optimization](#-performance-optimization)
+- [Troubleshooting](#-troubleshooting)
+- [Real-World Examples](#-real-world-examples)
 
 ## 🐳 Introduction to Containerization
 
